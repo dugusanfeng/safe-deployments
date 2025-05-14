@@ -7,6 +7,10 @@
       "address": "0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99",
       "codeHash": "0x7c6007a5d711cea8dfd5d91f5940ec29c7f200fe511eb1fc1397b367af3c42f9"
     },
+    "customize": {
+      "address": "0xe8605CfE952218cf3eA53944CF8ac88C4A1AcE2A",
+      "codeHash": "0x7c6007a5d711cea8dfd5d91f5940ec29c7f200fe511eb1fc1397b367af3c42f9"
+    },
     "zksync": {
       "address": "0x9301E98DD367135f21bdF66f342A249c9D5F9069",
       "codeHash": "0x331ff834e83e6e1596325f04eb7d16614155e324010af21f14e9c945e7669d5f"
@@ -14,6 +18,7 @@
   },
   "networkAddresses": {
     "1": "canonical",
+    "210425": "customize",
     "5": "canonical",
     "10": "canonical",
     "14": "canonical",
