@@ -8,8 +8,12 @@
       "codeHash": "0x91f82615581fc73b190b83d72e883608b25e392f72322035df1b13d51766cf8d"
     },
     "customize": {
-      "address": "0x46BCb28C5996Dd564229e7992B0bA5A7Ac5f9b12",
-      "codeHash": "0x1e7299b071e35197cc875b53a3b89c7a6bc5e50894e0947c67641f1b066c5ae4"
+      "address": "0x3664c71AE575F1D58AB70053E05C4F09D67672DE",
+      "codeHash": "0xfddc0217ab9e06760e2c0e350dcdbe515b1bc864ecb223b01972a2048b09977e"
+    },
+    "customize-test": {
+      "address": "0x85B827778696c6BA91E94a15D90eE172CD8aC9Db",
+      "codeHash": "0x8a0d11a2441acb5c68136425037933ec7c50d1f7474532602091b56817213bae"
     },
     "zksync": {
       "address": "0xdd35026932273768A3e31F4efF7313B5B7A7199d",
@@ -20,7 +24,7 @@
     "1": "canonical",
     "210425": "customize",
     "20250407": "customize",
-    "2206132": "customize",
+    "2206132": "customize-test",
     "5": "canonical",
     "10": "canonical",
     "14": "canonical",

@@ -8,7 +8,11 @@
       "codeHash": "0x1fe2df852ba3299d6534ef416eefa406e56ced995bca886ab7a553e6d0c5e1c4"
     },
     "customize": {
-      "address": "0x52BeC66D762CB7Fbbb1175779DBC0640b9d2E48C",
+      "address": "0x6a351f8c031bAA73bB87699CA61dd84d8E6873A1",
+      "codeHash": "0x1fe2df852ba3299d6534ef416eefa406e56ced995bca886ab7a553e6d0c5e1c4"
+    },
+    "customize-test": {
+      "address": "0xD6FAb81A5d479895fCf25d0E42d038f74A7db68C",
       "codeHash": "0x1fe2df852ba3299d6534ef416eefa406e56ced995bca886ab7a553e6d0c5e1c4"
     },
     "zksync": {
@@ -20,7 +24,7 @@
     "1": "canonical",
     "210425": "customize",
     "20250407": "customize",
-    "2206132": "customize",
+    "2206132": "customize-test",
     "5": "canonical",
     "10": "canonical",
     "14": "canonical",

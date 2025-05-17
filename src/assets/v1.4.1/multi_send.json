@@ -9,7 +9,11 @@
     },
     "customize": {
       "address": "0x695b8225Fe66382a5bE9c64b2f3A99405BCBf56F",
-      "codeHash": "0x14a0512f9f940717b155d4a42bdb0713f59869bd1be8fafd8269a3ebdccc5fcc"
+      "codeHash": "0x8900c6cf47b7a78794076e8d5e3036ab08feca21f6ba813f90683a84d83ba4c7"
+    },
+    "customize-test": {
+      "address": "0x60Fc43a275b469704d398b2F4F010c569557b3cB",
+      "codeHash": "0xc96fb354241f30c5518e279bd99ea95a95fb95b6c5224243960c452c1cc47005"
     },
     "zksync": {
       "address": "0x309D0B190FeCCa8e1D5D8309a16F7e3CB133E885",
@@ -20,7 +24,7 @@
     "1": "canonical",
     "210425": "customize",
     "20250407": "customize",
-    "2206132": "customize",
+    "2206132": "customize-test",
     "5": "canonical",
     "10": "canonical",
     "14": "canonical",
